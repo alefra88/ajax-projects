@@ -7,3 +7,5 @@
 ## 3. Uploader with AJAX XML + drag and drop api
 
 ## 4. Sending Form with AJAX Fetch + formSubmit
+
+## 5. Sending Form with AJAX Fetch + CORS + PHP
