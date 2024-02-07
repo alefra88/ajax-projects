@@ -9,3 +9,5 @@
 ## 4. Sending Form with AJAX Fetch + formSubmit
 
 ## 5. Sending Form with AJAX Fetch + CORS + PHP
+
+# thank you for visiting.
